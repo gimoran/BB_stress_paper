@@ -14,3 +14,6 @@ outputs/*
 
 # Archivos de Jupyter temporales
 .ipynb_checkpoints/
+*.tmp
+*.log
+
